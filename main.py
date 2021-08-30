@@ -5,7 +5,7 @@
 # colors = colorgram.extract('Image.jpg',30)
 
 # for color in colors:
-    r = color.rgb.r
+#     r = color.rgb.r
     g = color.rgb.g
     b = color.rgb.b
 
