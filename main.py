@@ -1,6 +1,6 @@
 #import colorgram
 
-rgb_colours = []
+# rgb_colours = []
 
 colors = colorgram.extract('Image.jpg',30)
 
