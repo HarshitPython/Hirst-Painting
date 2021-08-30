@@ -10,7 +10,7 @@
 #     b = color.rgb.b
 
 #     new_colors = (r, g, b)
-    rgb_colours.append(new_colors)
+#     rgb_colours.append(new_colors)
 
 print(rgb_colours)
 
