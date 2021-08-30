@@ -1,4 +1,4 @@
-import colorgram
+#import colorgram
 
 rgb_colours = []
 
