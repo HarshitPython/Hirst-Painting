@@ -2,7 +2,7 @@
 
 # rgb_colours = []
 
-colors = colorgram.extract('Image.jpg',30)
+# colors = colorgram.extract('Image.jpg',30)
 
 for color in colors:
     r = color.rgb.r
