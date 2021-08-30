@@ -7,7 +7,7 @@
 # for color in colors:
 #     r = color.rgb.r
 #     g = color.rgb.g
-    b = color.rgb.b
+#     b = color.rgb.b
 
     new_colors = (r, g, b)
     rgb_colours.append(new_colors)
